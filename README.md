@@ -10,5 +10,5 @@
 
 4. The local directory that you want to save
 
-[image](https://user-images.githubusercontent.com/30963732/235292212-5b72e5a0-b492-4696-84b6-706f35e4a89d.png)
+![image](https://user-images.githubusercontent.com/30963732/235292319-f427349a-c319-4fb7-970e-fbf10aaf94c5.png)
 
