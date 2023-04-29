@@ -1,6 +1,6 @@
 <h2> This repo helps you collect the massive amount of naver email contents repeatedly at a particulary deploymenet time. It particularly uses cookies, headers and params concept. </h2>
 <br></br>
-<h3> There are four GUI arguments that you should set up in advance.
+<h3> There are four GUI arguments that you should set up in advance. </h3>
 
 1. The valid Naver ID that you have
 
